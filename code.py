@@ -22,7 +22,7 @@ TRIGGER_BUTTON_PIN = board.GP25
 LED_PIN = board.GP23
 
 DINO_URL = "https://chrome-dino-game.github.io/"
-INVASION_URL = "https://quizzitymc.github.io/picohacker/dinosaurinvasion.html"
+INVASION_URL = "/index.html"
 
 def setup_digital_input(pin):
     try:
